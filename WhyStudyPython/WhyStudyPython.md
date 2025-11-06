@@ -40,5 +40,10 @@ In major Indian tech cities such as Bengaluru, Hyderabad, Pune, and Gurugram, Py
 | Pune         | ₹22,00,000 / year       | ₹18,00,000 / year            | ₹13,00,000 / year   | ₹17,50,000 / year |
 | Gurugram     | ₹21,00,000 / year       | ₹17,00,000 / year            | ₹12,00,000 / year   | ₹17,00,000 / year |
 
+**Python is easy to learn and very powerful**
 
+If you are a beginner, learning Python is your best choice, because it is easy to learn, powerful, and you can easily build web applications with it. It is very suitable as a beginner’s first programming language.
 
+In India, Python is widely taught in colleges, engineering courses, and even in school. Many schools have already introduced Python as the first programming language.
+
+**If you already have some programming experience, learning Python is also a good choice**, because Python is very likely to be the mainstream development direction in the future. Learning one more language gives you one more useful skill. Moreover, Python has powerful libraries and frameworks, which allow tools and applications to be developed very quickly, helping and improving your main development work.
