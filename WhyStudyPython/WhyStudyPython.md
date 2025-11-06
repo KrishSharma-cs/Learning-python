@@ -24,5 +24,7 @@ In the following years, the most talked-about fields — Artificial Intelligence
 So far, Python has become the focus of Internet development.
 In earlier “Top 10 Programming Languages Trend Chart” data, Python had jumped to third place in 2017 and became the most popular language that year.
 According to the latest TIOBE Index (2024–2025), Python has now reached the #1 position worldwide, showing continuous growth in popularity.
-<img width="1706" height="564" alt="image" src="https://github.com/user-attachments/assets/7b5c6cb0-457b-4aee-8a3c-4ac0f64ca428" />
+
+<img width="1700" height="549" alt="image" src="https://github.com/user-attachments/assets/5449438f-594d-4c96-9700-944bf1aec7d5" />
+
 
