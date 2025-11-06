@@ -22,12 +22,11 @@ The most well-known open-source cloud computing platform, OpenStack, is develope
 In the following years, the most talked-about fields — Artificial Intelligence (AI) and Machine Learning (ML) — chose Python as their primary development language.
 
 So far, Python has become the focus of Internet development.
-In earlier “Top 10 Programming Languages Trend Chart” data, Python had jumped to third place in 2017 and became the most popular language that year.
 According to the latest TIOBE Index (2024–2025), Python has now reached the #1 position worldwide, showing continuous growth in popularity.
 
 <img width="1700" height="549" alt="image" src="https://github.com/user-attachments/assets/5449438f-594d-4c96-9700-944bf1aec7d5" />
 
-**Python Developers Earn High Salaries**
+**Python developers earn high salaries**
 
 Python developers are among the highest-paid developers, especially in data science, machine learning, and web development.
 
